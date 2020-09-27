@@ -41,6 +41,8 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
 }
 
 .group {
